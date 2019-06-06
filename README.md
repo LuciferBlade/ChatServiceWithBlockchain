@@ -2,9 +2,9 @@
   4th task for multithreading programing course
 
 ## Useful links for creating similar applications
-  https://www.geeksforgeeks.org/socket-programming-in-java/
-  http://pirate.shu.edu/~wachsmut/Teaching/CSAS2214/Virtual/Lectures/chat-client-server.html
-  https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa
+* https://www.geeksforgeeks.org/socket-programming-in-java/
+* http://pirate.shu.edu/~wachsmut/Teaching/CSAS2214/Virtual/Lectures/chat-client-server.html
+* https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa
 
 ## Project Members
   * Mindaugas Burvys
